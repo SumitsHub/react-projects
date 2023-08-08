@@ -1,3 +1,8 @@
-#### IN ACTION
+#### Overview
+React app demonstrating how to create tabs using state in React.
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+## Concepts used
+1. state based rendering
+
+## Final UI
+![](./screenshot.png)
