@@ -8,3 +8,7 @@ returning state wise UI (loading)
 fetch function
 await keyword
 try catch block
+
+
+## Final UI
+![](./screenshot.png)

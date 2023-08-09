@@ -2,8 +2,9 @@
 App containg static data of people and using those showing list of people.
 
 ### Concepts used
-useState hook
-exporting and importing data
+1. useState hook
+2. exporting and importing data
+3. Mapping data through list - map() function of Array
 
 ## Idea
 

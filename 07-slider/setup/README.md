@@ -1,5 +1,7 @@
-# react-projects-7-slider
+## Concepts Used
+1. useEffect hook
+2. clean up function in useEffect
+3. setInterval() and clearInterval() functions
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+## Final UI
+![](./screenshot.png)

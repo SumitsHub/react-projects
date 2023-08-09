@@ -124,6 +124,7 @@ p {
   width: 90vw;
   margin: 5rem auto;
   max-width: var(--max-width);
+  overflow: hidden;
 }
 
 @media screen and (min-width: 992px) {
