@@ -6,4 +6,4 @@ Random input number of paragraph generator using static array of strings
 2. Input handeling in React
 
 ## Final UI
-.[](./screenshot.png)
+![](./screenshot.png)

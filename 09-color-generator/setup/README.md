@@ -11,4 +11,4 @@ Color shades and tints generator with the help of values.js
 [values.js](https://github.com/noeldelgado/values.js)
 
 ## Final UI
-.[](./screenshot.png)
+![](./screenshot.png)
